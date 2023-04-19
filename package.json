@@ -4,5 +4,22 @@
     "express": "^4.18.2",
     "inquirer": "^8.2.4",
     "mysql2": "^3.2.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker-sql",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandragruiz/employee-tracker-sql.git"
+  },
+  "author": "Sandra Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandragruiz/employee-tracker-sql/issues"
+  },
+  "homepage": "https://github.com/sandragruiz/employee-tracker-sql#readme"
 }
