@@ -14,6 +14,10 @@ Before using application, make sure to install the following npm packages: MySQl
 
 Start the application by typing 'node server.js' into the command line. You will be presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role.
 
+## Credits
+
+Values included in seeds.sql shared by Michael Steven Muniz: https://github.com/m-s-muniz
+
 ## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license. See the [LICENSE](./LICENSE) file for details.
